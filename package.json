@@ -1,0 +1,10 @@
+{
+  "name": "etiqueta-shopee",
+  "version": "1.0.0",
+  "description": "Level 3D Store — Unificador de Etiquetas Shopee",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve public",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
